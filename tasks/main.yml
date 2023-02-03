@@ -5,6 +5,7 @@
     name: andrewrothstein.temurin
   vars:
     openjdk_app: jre
+  when: hadoop_install_jre
 - name: checking for install in {{ hadoop_dir }}...
   become: true
   stat:

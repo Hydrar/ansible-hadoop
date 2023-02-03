@@ -37,3 +37,5 @@ hadoop_checksums:
   '3.3.3': sha512:1f5762682cef3daff8b2379fe7e40efca107bb7e8dcaa4a513e3bc0c082067759dd05d493ec997433dde2c89ea63dbc93aee0bba60045f89d3ec2d3f687f58b3
   # https://www.apache.org/dist/hadoop/common/hadoop-3.3.4/hadoop-3.3.4.tar.gz.sha512
   '3.3.4': sha512:ca5e12625679ca95b8fd7bb7babc2a8dcb2605979b901df9ad137178718821097b67555115fafc6dbf6bb32b61864ccb6786dbc555e589694a22bf69147780b4
+
+hadoop_install_jre: true
